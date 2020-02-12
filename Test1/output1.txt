@@ -1,0 +1,7 @@
+Name Surname Student ID Region Student PhaseCoordinator Tutor
+Anna Chrul 142568 Paris 2 Gabriel Mureau Tatiana Valence
+Edgar Gomez 752497 Rhone 3 Phillipe Vercour Martin Chung
+Mariano Castro 654285 Cote d'Azur 2 Marceline Pasdeloup Quentin CampbellSpecialty
+Oncology
+Oftalmology
+Virology
